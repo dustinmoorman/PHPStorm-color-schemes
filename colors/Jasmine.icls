@@ -869,13 +869,11 @@
     </option>
     <option name="PHP_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7f9f7f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_DOC_COMMENT_ID">
       <value>
-        <option name="FOREGROUND" value="7f9f7f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
