@@ -7,7 +7,7 @@
     <option name="CARET_COLOR" value="a7a7a7" />
     <option name="CARET_ROW_COLOR" value="1b1b1b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="141414" />
-    <option name="GUTTER_BACKGROUND" value="141414" />
+    <option name="GUTTER_BACKGROUND" value="1f1f1f" />
     <option name="INDENT_GUIDE" value="4e4e4e" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f8" />
     <option name="SELECTION_BACKGROUND" value="3c3f42" />
@@ -398,6 +398,11 @@
     </option>
     <option name="DEFAULT_DOT">
       <value />
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="d8b584" />
+      </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value />
@@ -814,29 +819,23 @@
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="fda5ff" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="979748" />
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="fda5ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="d2a8a1" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JS.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="cda869" />
       </value>
     </option>
     <option name="JS.LINE_COMMENT">
@@ -847,7 +846,7 @@
     </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="64a2a2" />
+        <option name="FOREGROUND" value="879ab2" />
       </value>
     </option>
     <option name="JS.NUMBER">
