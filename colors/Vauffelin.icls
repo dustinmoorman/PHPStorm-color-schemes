@@ -12,7 +12,7 @@
     <option name="GUTTER_BACKGROUND" value="3f3f3f" />
     <option name="INDENT_GUIDE" value="25425c" />
     <option name="LINE_NUMBERS_COLOR" value="ffffff" />
-    <option name="SELECTION_BACKGROUND" value="85533a" />
+    <option name="SELECTION_BACKGROUND" value="" />
     <option name="WHITESPACES" value="3f3f3f" />
   </colors>
   <attributes>
@@ -480,12 +480,12 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="99c05" />
+        <option name="FOREGROUND" value="efef8f" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="b524b1" />
+        <option name="FOREGROUND" value="8cd0d3" />
       </value>
     </option>
     <option name="HTML_COMMENT">
@@ -502,12 +502,12 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="db9b1e" />
+        <option name="FOREGROUND" value="e3ceab" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="db9b1e" />
+        <option name="FOREGROUND" value="e3ceab" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
