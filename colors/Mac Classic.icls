@@ -202,8 +202,8 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
+        <option name="FOREGROUND" value="a2" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="808080" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -400,9 +400,8 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="666666" />
+        <option name="FOREGROUND" value="66ff" />
         <option name="BACKGROUND" value="ecfaeb" />
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
