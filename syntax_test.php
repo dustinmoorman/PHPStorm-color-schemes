@@ -2,7 +2,7 @@
 /**
  * @author Dustin Moorman <dustin.moorman@gmail.com>
  * Adding this file to provide some sample syntax to highlight for the
- * screenshot examples for each color scheme. PHP and JS are below.
+ * screen shot examples for each color scheme. PHP and JS are below.
  */
 
 abstract class Test {
@@ -13,7 +13,6 @@ abstract class Test {
 }
 
 class Example extends Test {
-
 	private $times_said_hello = 0;
 	private $entities_greeted = array();
 
