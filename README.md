@@ -1,7 +1,7 @@
 PHPStorm-color-schemes
 ======================
 
-A collection of the color schemes for PHPStorm. 
+A collection of color schemes for PHPStorm. 
 
 ## Installing a color scheme
 1. Locate your ```.WebIde``` folder. It will show as ```.WebIde60``` or ```.WebIde50``` depending on the version of PHPStorm you are using. We'll call it ```.WebIdeXX```.
