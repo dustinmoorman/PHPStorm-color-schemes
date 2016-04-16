@@ -1,5 +1,6 @@
 PHPStorm-color-schemes
 ======================
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/dustinmoorman/mandrill/master/LICENSE)
 
 A collection of color schemes for PHPStorm. 
 
